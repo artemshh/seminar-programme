@@ -1,1 +1,1 @@
-print('sta')
+    print('sta')
